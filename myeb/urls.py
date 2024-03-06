@@ -23,4 +23,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
 ]
 
-print(f"today is : {datetime.now()} asdaasdsaxdgdsgdsd")
+print(f"today is : {datetime.now()} ")
+print(f"today is : {datetime.now()} we are back")
