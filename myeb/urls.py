@@ -25,3 +25,4 @@ urlpatterns = [
 
 print(f"today is : {datetime.now()} ")
 print(f"today is : {datetime.now()} finallygit ")
+############3
